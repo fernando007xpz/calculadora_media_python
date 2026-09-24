@@ -1,2 +1,9 @@
-# calculadora_media_python
-projeto em python para calcular nota 
+# Titulo
+
+# tecnologia utilizadas
+
+- python
+- visual studio code
+
+# como instalar e executar
+
